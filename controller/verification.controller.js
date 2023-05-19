@@ -2,8 +2,8 @@ const bcrypt = require('bcrypt');
 const nodemailer = require('nodemailer');
 
 
-const User = require('../../email-communication-engine-backend-master/models/User');
-const UserOTPVerification = require('../../email-communication-engine-backend-master/models/UserOTPVerification');
+const User = require('../models/User');
+const UserOTPVerification = require('../models/UserOTPVerification');
 
 
 

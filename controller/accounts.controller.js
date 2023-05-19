@@ -1,5 +1,6 @@
 // const jwt = require('jsonwebtoken')
-const MailAccount = require('../../email-communication-engine-backend-master/models/MailAccount')
+const MailAccount = require('../models/MailAccount')
+// const MailAccount = require('../../email-communication-engine-backend-master/models/MailAccount')
 
 
 const MailAccountsController = async (req, res) => {

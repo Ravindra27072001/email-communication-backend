@@ -2,11 +2,11 @@ const schedule = require('node-schedule');
 const nodemailer = require('nodemailer');
 // const jwt = require('jsonwebtoken');
 
-const ScheduledEmails = require('../../email-communication-engine-backend-master/models/ScheduledEmail')
-const UserEmail = require('../../email-communication-engine-backend-master/models/UsersEmail')
-const Emails = require('../../email-communication-engine-backend-master/models/ScheduledEmail')
-const MailAccount = require('../../email-communication-engine-backend-master/models/MailAccount')
-const List = require('../../email-communication-engine-backend-master/models/List');
+const ScheduledEmails = require('../models/ScheduledEmail')
+const UserEmail = require('../models/UsersEmail')
+const Emails = require('../models/ScheduledEmail')
+const MailAccount = require('../models/MailAccount')
+const List = require('../models/List');
 
 
 

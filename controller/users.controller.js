@@ -1,5 +1,6 @@
 const bcrypt = require('bcrypt');
-const User = require('../../email-communication-engine-backend-master/models/User');
+const User = require('../models/User')
+// const User = require('../../email-communication-engine-backend-master/models/User');
 // const jwt = require('jsonwebtoken')
 
 

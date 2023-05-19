@@ -1,6 +1,6 @@
-const List = require('../../email-communication-engine-backend-master/models/List');
-const MailAccount = require('../../email-communication-engine-backend-master/models/MailAccount')
-const UserEmail = require('../../email-communication-engine-backend-master/models/UsersEmail')
+const List = require('../models/List');
+const MailAccount = require('../models/MailAccount')
+const UserEmail = require('../models/UsersEmail')
 
 // const jwt = require('jsonwebtoken')
 
