@@ -4,7 +4,7 @@
 email-communication-enginelLive link - 
 https://email-communication-backend1.onrender.com/
 
-•I designed this website using VueJs and NodeJs.
+•Designed this website using VueJs and NodeJs.
 •It allows sending bulk emails to a large group of
 people.
 •We can write and schedule an email to be sent
